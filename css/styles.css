@@ -1,0 +1,53 @@
+.intro {
+    height: 937px;
+    background-color: #5F6F94;
+    text-align: center;
+}
+
+.introHeader {
+    height: 450px;
+}
+
+.mountain {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translate(-50%, 0%);
+}
+
+.cloud1 {
+    position: absolute;
+    top: 12%;
+    left: 5%;
+}
+
+.cloud2 {
+    position: absolute;
+    top: 45%;
+    right: 9%;
+}
+
+.jacobPic {
+    margin-top: 25px;
+    margin-bottom: 80px;
+    border-radius: 20%;
+}
+
+.section1 {
+    height: 937px;
+    background-color: #25316D;
+}
+
+h1 {
+    color: #25316D;
+    margin: 0px;
+    font-size: 50px;
+}
+
+h3 {
+    color: #FEF5AC;
+    font-size: 25px;
+}
+body {
+    margin: 0px;
+}
